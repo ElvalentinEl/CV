@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    color: crimson;
+}
+
+body{
+    color: blueviolet;
+}
+
+p.test {
+    color: rgb(12, 100, 100);
+}
+
+em {
+    color: #45A1BB;
+}
